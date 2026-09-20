@@ -1,3 +1,22 @@
+
+
+https://github.com/user-attachments/assets/ddb848ad-2caa-46c1-ad16-a52a67fd831d
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # EcoVision
 Aplicación móvil desarrollada con Flutter que utiliza Machine Learning y TensorFlow Lite para clasificar residuos mediante imágenes.
 # 🌱 EcoVision
